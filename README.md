@@ -9,7 +9,9 @@ leading to treatment disparity towards individuals belonging to marginalized gro
 gender and race in real-world applications like automated resume processing, loan application
 screening, and criminal risk prediction. Designing fair and accurate machine learning models
 is thus an essential and immediate requirement for these algorithms to make a meaningful
-real-world impact. To emphasize the importance of fairness in unsupervised learning, we consider the following hypothetical scenario: An employee-friendly company is looking to open branches at
+real-world impact. 
+
+To emphasize the importance of fairness in unsupervised learning, we consider the following hypothetical scenario: An employee-friendly company is looking to open branches at
 multiple locations across the city and distribute its workforce in these branches to improve
 work efficiency and minimize overall travel time to work. The company has employees with
 diverse backgrounds based on, for instance, race and gender and does not prefer any group
